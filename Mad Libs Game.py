@@ -1,0 +1,22 @@
+user_name=input("Please enter your name: ")
+print("\n")
+print("                                                            Hello",user_name,"Welcome to Mad Libs")
+print("\n")
+print("__________________________________________________________________________________________________________________________________________________________________")
+print("\n")
+blank1=input("Please enter a place which has doors : ")
+blank2=input("Please enter a number : ")
+blank3=input("Please enter a direction : ")
+blank4=input("Please enter a verb : ")
+blank5=input("Please enter an object : ")
+blank6=input("Please enter a verb : ")
+blank7=input("Please enter a verb : ")
+print("\n")
+print("__________________________________________________________________________________________________________________________________________________________________")
+print("\n")
+story=("I pass through the",blank1,"doors knowing it’ll be the last time.On the elevator, I press the number",blank2," watching it illuminate for the last time.I continue", blank3,"the hallway and keep my gaze forward and my heart brave as I tap lightly on his door,",blank4,"to hear Adam invite me in for the very last time.He’s on his",blank5,"lying on his back. When he",blank6,"me, he comforts me with his smile and",blank7,"the blanket, inviting me to join him.")
+print(story)
+print("\n")
+
+
+
